@@ -1,2 +1,2 @@
 path: "new_model.joblib"
-features: ['MDVP:RAP'', 'HNR']
+features: ['MDVP:Shimmer','MDVP:Fo(Hz)']
